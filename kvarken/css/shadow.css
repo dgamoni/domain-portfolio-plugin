@@ -1,0 +1,30 @@
+#header-menu ul ul,
+#header-menu ul ul ul ,
+#header-menu ul ul ul ul,
+#header-menu ul ul ul ul u,
+#header img,
+.meta,
+.search-post,
+.older-posts,
+.newer-posts,
+.paged-comments,
+.comment-body,
+#respond,
+.widget {
+	box-shadow: 0 3px 3px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0 3px 3px rgba(0,0,0,0.2);
+	-webkit-box-shadow: 0 3px 3px rgba(0,0,0,0.2);
+}
+
+.header-image:before,
+.header-image:after{ 
+	box-shadow: 0 13px 15px rgba(0,0,0,0.6);
+	-moz-box-shadow: 0 13px 15px rgba(0,0,0,0.6);
+	-webkit-box-shadow: 0 13px 15px rgba(0,0,0,0.6);
+}
+
+.sticky{
+	box-shadow: 0 5px 5px rgba(0,0,0,0.2);
+	-moz-box-shadow: 0 5px 5px rgba(0,0,0,0.2);
+	-webkit-box-shadow: 0 5px 5px rgba(0,0,0,0.2);
+}

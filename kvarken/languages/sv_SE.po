@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kvarken\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-01 07:46+0100\n"
+"PO-Revision-Date: 2014-04-01 07:46+0100\n"
+"Last-Translator: Carolina Nymark <myazalea@hotmail.com>\n"
+"Language-Team: Layout.nu <carro@layout.nu>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.1\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\kvarken\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/404.php:3
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:210
+msgid "Page not found"
+msgstr "Sidan kunde inte hittas"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/archive.php:5
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Arkiv: %s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/archive.php:6
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Arkiv: %s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/archive.php:7
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Arkiv: %s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/archive.php:8
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Arkiv: %s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/archive.php:9
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Arkiv: %s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/archive.php:10
+msgid "Archive:"
+msgstr "Arkiv:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/archive.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/author.php:31
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/comments.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/comments.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/content.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/page.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/search.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/single.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/templates/no-sidebar.php:17
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/templates/no-widgets-or-comments.php:18
+msgid "Pages: "
+msgstr "Sidor: "
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/archive.php:34
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/author.php:38
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/index.php:10
+msgid "Next page &rarr;"
+msgstr "Nästa sida &rarr;"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/archive.php:35
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/author.php:39
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/index.php:15
+msgid "&larr; Previous page"
+msgstr "&larr; Föregående sida"
+
+# this is refering to the author. Authors name will be inserted at %
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/author.php:6
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:632
+#, php-format
+msgid "About %s"
+msgstr "Om %s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/author.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:639
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:657
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:707
+#, php-format
+msgid "View all posts by %s"
+msgstr "Visa alla inägg av %s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Det här inlägget är lösenordsskyddat. Skriv in lösenordet för att läsa "
+"kommentarerna."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:30
+msgid "Header Navigation"
+msgstr "Navigering för sidhuvud"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:37
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:73
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:79
+msgid "Sunset"
+msgstr "Solnedgång"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:43
+msgid "Stones"
+msgstr "Stenar"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:49
+msgid "Flower"
+msgstr "Blomma"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:55
+msgid "A cloudy day"
+msgstr "En molnig dag"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:61
+msgid "Seagull"
+msgstr "Fiskmås"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:67
+msgid "Birds On Rock"
+msgstr "Fåglar på klippa"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:148
+msgid "Read more: "
+msgstr "Läs mer: "
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:173
+msgid "Right Hand Sidebar"
+msgstr "Höger Sidopanel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:174
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr "Widgets i denna panel visas på höger sida"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:180
+msgid "Footer Sidebar"
+msgstr "Sidfotspanel"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:181
+msgid "Widgets in this area will be shown in the footer."
+msgstr "Widgets i denna panel visas i sidfoten."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/functions.php:207
+#, php-format
+msgid "Page %s"
+msgstr "Sida %s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/page.php:14
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:675
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:724
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/templates/no-sidebar.php:20
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/templates/no-widgets-or-comments.php:21
+msgid "Edit"
+msgstr "Redigera"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/search.php:4
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:6
+msgid "Logo image"
+msgstr "Logo"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:11
+msgid "Author and meta"
+msgstr "Författare och meta"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:16
+msgid "Sidebar position"
+msgstr "Sidpanels position"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:21
+msgid "Design details"
+msgstr "Designdetaljer"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:26
+msgid "Advanced Color Settings"
+msgstr "Avancerade färginställningar."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:39
+msgid "Check this box to hide the breadcrumb navigation."
+msgstr "Klicka i rutan för att gömma brödsmulorna (navigeringen)."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:51
+msgid "Display the text in the footer."
+msgstr "Visa texten i sidfoten."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:59
+msgid "Choose a logo: "
+msgstr "Välj en logo: "
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:71
+msgid "Check this box to display the logo in the header."
+msgstr "Klicka i rutan för att visa logon i sidhuvudet."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:82
+msgid ""
+"Check this box to display the logo on top of the sidebar. This requires an "
+"active sidebar"
+msgstr "Klicka i rutan för att visa logon ovanför sidopanelen."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:93
+msgid "Check this box to display the logo in the footer."
+msgstr "Klicka i rutan för att visa logon i sidfoten."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:104
+msgid "Add this link to the logo:"
+msgstr "Lägg till denna länk till logon:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:117
+msgid "Link Color"
+msgstr "Länkfärg"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:128
+msgid "Content text color"
+msgstr "Brödtexts färg"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:139
+msgid "Single post and page title color"
+msgstr "Färg på titlen i inlägg och sidor."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:150
+msgid "Widget title color"
+msgstr "Färg för widgettitlar"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:160
+msgid "Comment area backgroundcolor"
+msgstr "Bakgrundsfärg för kommentering"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:171
+msgid "Color of the top and full page border of the site"
+msgstr "Färg för kanten längst upp på sidan"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:182
+msgid ""
+"Color of the border of the sticky posts, meta, navigation, widgets and "
+"header image."
+msgstr ""
+"Färg för kanten runt stickys, meta, navigationsknappar, widgets och bilden i "
+"sidhuvudet."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:192
+msgid "Background color for sticky posts, navigation and widgets."
+msgstr "Bakgrundsfärg för stickys, navigationsknapparna och widgets."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:202
+msgid "Background hover color for sticky posts, navigation and widgets."
+msgstr ""
+"Bakgrundsfärg när musen förs över stickys, navigationsknappar och widgets."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:212
+msgid "Background color for posts and pages."
+msgstr "Bakgrundsfärg för inlägg och sidor."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:222
+msgid "Background color for the meta."
+msgstr "Bakgrundsfärg för meta."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:232
+msgid "Background color for the menu"
+msgstr "Bakgrundsfärg för menyn"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:247
+msgid ""
+"Check this box to hide the author information and avatar that are displayed "
+"in single post view."
+msgstr ""
+"Klicka i rutan för att gömma den extra informationen om författaren (och "
+"avataren) som visas under enskilda inlägg."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:257
+msgid "Check this box to hide all the meta information."
+msgstr "Klicka i rutan för att gömma all meta information."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:271
+msgid "Check this box to place the header image above the menu."
+msgstr ""
+"Klicka i rutan för att placera bilden i sidhuvudet ovanför menyn istället "
+"för under."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:282
+msgid "Add this link to the header image:"
+msgstr "Lägg till denna länk till headerbilden:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:298
+msgid ""
+"Check this box to remove the curly brackets from the meny and to replace "
+"them with a | divider in the breadcrumb navigation."
+msgstr ""
+"Klicka i rutan för att ta bort de sk. måsvingarna från menyn och ersätta dem "
+"med en avdelare |  i navigationen."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:314
+msgid "Check this box to hide all shadows."
+msgstr "Klicka i rutan för att  ta bort skuggorna."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:327
+msgid "Check this box to show icons in the post meta"
+msgstr ""
+"Klicka i rutan för att  visa ikoner i metainformationen nedanför inläggen."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:340
+msgid ""
+"Check this box to remove the rounded corners on posts, widgets, navigation."
+msgstr ""
+"Klicka i rutan för att ta bort de rundade hörnen runt inläggen, widgets och "
+"navigationsknapparna."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:352
+msgid "Check this box to remove the borders around posts, widgets, navigation."
+msgstr ""
+"Klicka i rutan för att ta bort kanten runt inläggen, widgets, och "
+"navigationsknapparna."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:365
+msgid "Check this box to remove the border on the very top of the page."
+msgstr "Klicka i rutan för att ta bort kanten längst upp på sidan."
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:377
+msgid ""
+"Check this box to add a border to the entire page. (This requires the top "
+"border to be active)"
+msgstr "Klicka i rutan för att visa kanten runt hela sidan. "
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:389
+msgid "Or, choose a border size in the box below:"
+msgstr "Eller, välj storlek på kanten nedan:"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:401
+msgid ""
+"Check this box to move the sidebar to the left hand side. (Default is the "
+"right hand side. This requires an active sidebar)"
+msgstr ""
+"Klicka i rutan för att visa sidopanelen på vänster sida. (Visas vanligen på "
+"höger sida)"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:413
+msgid ""
+"Check this box to hide the sidebar on the frontpage. (This setting is "
+"overwritten depending on template)"
+msgstr ""
+"Klicka i rutan för att gömma sidopanelen på framsidan (Beroende på "
+"template). "
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:598
+msgid "Home"
+msgstr "Hem"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:668
+#, php-format
+msgid "Category: %1s"
+msgstr "Kategori: %1s"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\kvarken/inc/customizer.php:673
+#, php-format
+msgid "Tagged: %1$s. "
+msgstr "Etiketter: %1$s. "
+
+#~ msgid ""
+#~ "<a href=\"%1$s\">Written by</a> <a href=\"%3$s\" title=\"%4$s\" rel="
+#~ "\"author\">%5$s</a> <a href=\"%1$s\" rel=\"bookmark\">%2$s</a>. "
+#~ msgstr ""
+#~ "<a href=\"%1$s\">Skrivet av</a> <a href=\"%3$s\" title=\"%4$s\" rel="
+#~ "\"author\">%5$s</a> <a href=\"%1$s\" rel=\"bookmark\">%2$s</a>. "
+
+#~ msgid "Breadcrumbs"
+#~ msgstr "Brödsmulor"
+
+#~ msgid "Header image placement"
+#~ msgstr "Välj placering av bild i sidhuvud"
+
+#~ msgid "Hide shadows"
+#~ msgstr "Göm skuggor"
+
+#~ msgid "View all posts by %s &rarr;"
+#~ msgstr "Visa alla inlägg av %s &rarr;"
+
+#~ msgid ""
+#~ "<a href=\"%5$s\">Written by</a> <a href=\"%2$s\" title=\"%3$s\" rel="
+#~ "\"author\">%4$s</a> %1$s. "
+#~ msgstr ""
+#~ "<a href=\"%5$s\">Skrivet av</a> <a href=\"%2$s\" title=\"%3$s\" rel="
+#~ "\"author\">%4$s</a> %1$s. "
+
+#~ msgid ""
+#~ "Written by <a href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a> %1$s. "
+#~ msgstr ""
+#~ "Skrivet av <a href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a> %1$s. "
+
+#~ msgid "<span class=\"edit-links\">Edit</span>"
+#~ msgstr "<span class=\"edit-links\">Redigera</span>"
+
+#~ msgid "Leave a comment"
+#~ msgstr "Lämna en kommentar"
+
+#~ msgid "1 comment"
+#~ msgstr "1 kommentar"
+
+#~ msgid "% comments"
+#~ msgstr "% comments"
+
+#~ msgid " comments"
+#~ msgstr " kommentarer"
+
+#~ msgid "%v comments"
+#~ msgstr "% kommentarer"
+
+#~ msgid "&#37 comments"
+#~ msgstr "% kommentarer"
+
+#~ msgid "%s comments"
+#~ msgstr "%s kommentarer"
+
+#~ msgid "%1$s comments"
+#~ msgstr "%1$s kommentarer"
+
+#~ msgid "1 comment on "
+#~ msgstr "1 kommentar till "
+
+#~ msgid "% comments on "
+#~ msgstr "% kommentrarer om "
+
+#~ msgid "Blog Archives"
+#~ msgstr "Bloggarkiv"
+
+#~ msgid "Full size is %s pixels"
+#~ msgstr "Full storlek är %s pixlar"
+
+#~ msgid "Link to full-size image"
+#~ msgstr "Länk till bild i full storlek"
+
+#~ msgid "Website: "
+#~ msgstr "Hemsida: "
+
+#~ msgid "Back to top"
+#~ msgstr "Tillbaka till toppen"
+
+#~ msgid "Footer Navigation"
+#~ msgstr "Navigering (meny) i sidfot"
+
+#~ msgid ""
+#~ "<a href=\"%1$s\">Written by</a> <a href=\"%3$s\" title=\"%4$s\" rel="
+#~ "\"author\">%5$s</a> <a href=\"%1$s\" rel=\"bookmark\"> %2$s</a>"
+#~ msgstr ""
+#~ "<a href=\"%1$s\">Skrivet av</a> <a href=\"%3$s\" title=\"%4$s\" rel="
+#~ "\"author\">%5$s</a> <a href=\"%1$s\" rel=\"bookmark\"> %2$s</a>"
+
+#~ msgid ""
+#~ "Posted by <a href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a>  %1$s"
+#~ msgstr ""
+#~ "Inlagd av <a href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a> %1$s"
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "Din kommentar måste godkännas innan publicering."
+
+#~ msgid "Continue reading."
+#~ msgstr "Läs mer."
+
+#~ msgid " in reply to %1$s on %2$s at %3$s:"
+#~ msgstr " som svar till %1$s den %2$s kl %3$s:"
+
+#~ msgid " on %1$s at %2$s:"
+#~ msgstr " den %1$s kl %2$s:"
+
+#~ msgid ""
+#~ "Posted by <a href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a> on %1$s"
+#~ msgstr ""
+#~ "Inlagd av <a href=\"%2$s\" title=\"%3$s\" rel=\"author\">%4$s</a> den %1$s"
+
+#~ msgid "No Responses to "
+#~ msgstr "Inga Svar till  "
+
+#~ msgid "1 Response to "
+#~ msgstr "1 Svar till"
+
+#~ msgid "% Responses to "
+#~ msgstr "% Svar till "
+
+#~ msgid "1 Comment"
+#~ msgstr "1 Kommentar"
+
+#~ msgid "% Comments"
+#~ msgstr "% Kommentarer"
+
+#~ msgid "Category:"
+#~ msgstr "Kategori:"
