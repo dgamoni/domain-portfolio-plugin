@@ -146,7 +146,14 @@ function dp_page($oldcontent) {
 		require_once(DPPUNY.'/idna_convert.class.php');
 		$IDN = new idna_convert();
 	}
-	?><style type="text/css">
+	?>
+	<style type="text/css">
+	#dpcols-name, #dphead-name, #dphead-price, #dphead-status, #dpcols-status, #dpcols-price {
+		text-align: center;
+	}
+	</style>
+
+	<style type="text/css">
 	<?php echo get_option("dp_style"); ?>
 	</style><?php
 	
@@ -231,24 +238,150 @@ function dp_page($oldcontent) {
 	$intro = str_replace("\n", "<br />", $intro);
 	echo '<div id="intro">'.$intro.'</div>';
 		?>
-  <div style="text-align:right"><?php if (get_option('dp_search') != 0) { ?><form method="get"><strong>Search My UK Domain Name Portfolio:</strong> <input type="text" name="search-term"<?php echo (isset($_GET['search-term'])) ? ' value="'.$_GET['search-term'].'"' : ''; ?> /><input type="submit" value="Search" class="button" /> <a href="?page_id=<?php echo $pageid; ?>&search">[<?php _e('Advanced Search'); ?>]</a><br /><?php } ?>
+  <div style="text-align:right">
+
+<!-- fix seach  -->
+
+  <?php if (get_option('dp_search') != 0) { ?>
+<!--   	<form method="get">
+  	<strong>Search My UK Domain Name Portfolio:</strong>
+  	<input type="text" name="search-term"<?php echo (isset($_GET['search-term'])) ? ' value="'.$_GET['search-term'].'"' : ''; ?> />
+  	<input type="submit" value="Search" class="button" />  -->
+<!--   	<a href="?page_id=<?php echo $pageid; ?>&search">[<?php _e('Advanced Search'); ?>]</a>
+  	<br /> -->
+  
+  <?php 
+  //------------------- add advansed saeach --------------------
+  ?>
+  <form method="get" action="?page_id=<?php echo $pageid; ?>">
+
+    <strong><?php _e('Search My UK Domain Name Portfolio');?>:</strong>
+
+    <input style="max-width: 200px;" type="text" name="search-term"<?php echo (isset($_GET['search-term'])) ? ' value="'.$_GET['search-term'].'"' : ''; ?> />
+
+  	<strong><?php _e('Extension'); ?>:</strong>
+
+    <select name="ext">
+    <option value="">-<?php _e('All'); ?>-</option>
+    <?php 
+		$getext = "SELECT `ext` FROM `".$wpdb->prefix."dp_domains`";
+		$results = $wpdb->get_results($getext);
+		$exts = array();
+		foreach ($results as $row) {
+			if (!in_array(strtoupper($row->ext), $exts)) {
+				$exts[] = strtoupper($row->ext);
+			}
+		}
+		asort($exts);
+		foreach ($exts as $ext) {
+			echo '<option value="'.$ext.'">.'.$ext.'</option>';
+		}
+	?>
+    </select>
+
+  	<strong><?php _e('Category'); ?>:</strong>
+
+    <select name="lang">
+    <option value="">-<?php _e('All'); ?>-</option>
+    <?php 
+		$getext = "SELECT `language` FROM `".$wpdb->prefix."dp_domains`";
+		$results = $wpdb->get_results($getext);
+		$exts = array();
+		foreach ($results as $row) {
+			if (!in_array(strtoupper($row->language), $languages)) {
+				$languages[] = strtoupper($row->language);
+			}
+		}
+		asort($languages);
+		foreach ($languages as $language) {
+			echo '<option value="'.$language.'">'.$language.'</option>';
+		}
+	?>
+    </select>
+
+  	<input style="margin: 5px;" type="submit" value="Search" />
+
+<!-- </form> -->
+<?php
+  //-----------------------------------end
+  
+  } ?>
+
 <?php if (isset($_GET['search-term'])) { ?>
-<center><strong><?php _e('Search Results for the term'); ?> '<?php echo $_GET['search-term']; ?>':</strong></center>
+<center><strong><?php _e('Search Results for the term'); ?> "<?php echo $_GET['search-term'] . '"  Extension: " '.$_GET['ext'].'"  Category: " '.$_GET['lang'].'"'; ?></strong></center>
 <?php } ?>
 <strong><?php _e('Pages'); ?>: </strong><?php
+
+
+ // -----------  new pagination	
+	$max_page = 3;
+	// var_dump($page);
+	// var_dump($pages);
+	// var_dump($max_page);
+
 	if ($page > 1) {
 		echo "<a href=\"?page_id=$pageid&page=".($page - 1)."&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '')."".((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\" title=\"Previous Page\">&lt;Prev</a> ";
 	}
-  for ($i=1;$i<=$pages;$i++) {
-	if ($i == $page) {
-		echo "[$i]";
-	} else {
-		echo "<a href=\"?page_id=$pageid&page=$i&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '')."".((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\">[$i]</a>";
+
+ //  for ($i=1;$i<=$pages;$i++) {
+ // 	if ($i == $page) {
+	// 	echo "[$i]";
+	// } else {
+	// 	echo "<a href=\"?page_id=$pageid&page=$i&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '')."".((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\">[$i]</a>";
+	// }
+ //  }
+
+	if ( ( $pages>10 )  ) {
+
+		  for ( $i=1; $i<=$max_page; $i++ ) {
+		 	if ($i == $page) {
+				echo "[$i]";
+			} else {
+				echo "<a href=\"?page_id=$pageid&page=$i&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '')."".((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\">[$i]</a>";
+			}
+		  }
+		echo '...';
+
+		$last = $pages-$max_page;
+
+		//var_dump($last);
+		if ( ( ($page)>$max_page ) && ($page<=$last)  ) {
+
+			for ( $i=($page-1); $i<=($page+1); $i++ ) {
+				if ($i == $page) {
+					echo "[$i]";
+				} 
+			}
+			echo '...';
+		}//end center
+
+		for ( $i=$last+1; $i<=$pages; $i++ ) {
+			if ($i == $page) {
+				echo "[$i]";
+			} else {
+				echo "<a href=\"?page_id=$pageid&page=$i&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '')."".((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\">[$i]</a>";
+		   }
+		}
+
+	} //end if >10
+	else {
+
+		  for ($i=1;$i<=$pages;$i++) {
+		 	if ($i == $page) {
+				echo "[$i]";
+			} else {
+				echo "<a href=\"?page_id=$pageid&page=$i&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '')."".((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\">[$i]</a>";
+			}
+		  }
+
 	}
-  }
+
   if ($page < $pages) {
 		echo " <a href=\"?page_id=$pageid&page=".($page + 1)."&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '')."".((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\" title=\"Next Page\">Next &gt;</a> ";
 	}
+// end pagination --------------------
+
+
 ?></form>
 </div>
         <table class="dptable" cellspacing="0" cellpadding="0">
@@ -256,14 +389,25 @@ function dp_page($oldcontent) {
   	<?php if (in_array("name", $dp_visible)) { ?>
     <td id="dphead-name">&nbsp;<img src="<?php echo DPIMAGES; ?>/pre.gif" border="0" alt="&raquo;" /> <a href="?page_id=<?php echo $pageid; ?>&page=<?php echo $page; ?>&dir=<?php echo ($dir == 'asc' ? 'desc' : 'asc'); ?>&orderby=name<?php echo (isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '').((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : ''); ?>"><?php _e('Domain Name'); ?></a> <?php echo ($orderby == 'name') ? ( ($dir == 'asc') ? '<img src="'.DPIMAGES.'/asc.gif" border="0" alt="&and;" />' : '<img src="'.DPIMAGES.'/desc.gif" border="0" alt="&or;" />' ) : '' ; ?></td>
     <?php } ?>
+
     <?php if (in_array("language", $dp_visible)) { ?>
     <td id="dphead-language"><img src="<?php echo DPIMAGES; ?>/pre.gif" border="0" alt="&raquo;" /> <a href="?page_id=<?php echo $pageid; ?>&page=<?php echo $page; ?>&dir=<?php echo ($dir == 'asc' ? 'desc' : 'asc'); ?>&orderby=language<?php echo (isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '').((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : ''); ?>"><?php _e('Language'); ?></a> <?php echo ($orderby == 'language') ? ( ($dir == 'asc') ? '<img src="'.DPIMAGES.'/asc.gif" border="0" alt="&and;" />' : '<img src="'.DPIMAGES.'/desc.gif" border="0" alt="&or;" />' ) : '' ; ?></td>
     <?php } ?>
+
+    <?php if (in_array("expiry", $dp_visible)) { ?>
+    <td id="dphead-expiry"><img src="<?php echo DPIMAGES; ?>/pre.gif" border="0" alt="&raquo;" /> <a href="?page_id=<?php echo $pageid; ?>&page=<?php echo $page; ?>&dir=<?php echo ($dir == 'asc' ? 'desc' : 'asc'); ?>&orderby=language<?php echo (isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '').((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : ''); ?>"><?php _e('Creation'); ?></a> <?php echo ($orderby == 'expiry') ? ( ($dir == 'asc') ? '<img src="'.DPIMAGES.'/asc.gif" border="0" alt="&and;" />' : '<img src="'.DPIMAGES.'/desc.gif" border="0" alt="&or;" />' ) : '' ; ?></td>
+    <?php } ?>
+
     <?php if (in_array("punycode", $dp_visible)) { ?>
     <td id="dphead-punycode"><img src="<?php echo DPIMAGES; ?>/pre.gif" border="0" alt="&raquo;" /> <?php _e('Punycode'); ?></td>
     <?php } ?>
+
+    <?php if (in_array("registrar", $dp_visible)) { ?>
+    <td id="dphead-registrar"><img src="<?php echo DPIMAGES; ?>/pre.gif" border="0" alt="&raquo;" /> <a href="?page_id=<?php echo $pageid; ?>&page=<?php echo $page; ?>&dir=<?php echo ($dir == 'asc' ? 'desc' : 'asc'); ?>&orderby=registrar<?php echo (isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '').((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : ''); ?>"><?php _e('Registrar'); ?></a> <?php echo ($orderby == 'registrar') ? ( ($dir == 'asc') ? '<img src="'.DPIMAGES.'/asc.gif" border="0" alt="<img src="'.DPIMAGES.'/asc.gif" border="0" alt="&and;" />" />' : '<img src="'.DPIMAGES.'/desc.gif" border="0" alt="&or;" />' ) : '' ; ?></td>
+    <?php } ?>
+
     <?php if (in_array("price", $dp_visible)) { ?>
-    <td id="dphead-price"><img src="<?php echo DPIMAGES; ?>/pre.gif" border="0" alt="&raquo;" /> <a href="?page_id=<?php echo $pageid; ?>&page=<?php echo $page; ?>&dir=<?php echo ($dir == 'asc' ? 'desc' : 'asc'); ?>&orderby=price<?php echo (isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '').((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : ''); ?>"><?php _e('Asking Price'); ?></a> <?php echo ($orderby == 'price') ? ( ($dir == 'asc') ? '<img src="'.DPIMAGES.'/asc.gif" border="0" alt="<img src="'.DPIMAGES.'/asc.gif" border="0" alt="&and;" />" />' : '<img src="'.DPIMAGES.'/desc.gif" border="0" alt="&or;" />' ) : '' ; ?></td>
+    <td id="dphead-price"><img src="<?php echo DPIMAGES; ?>/pre.gif" border="0" alt="&raquo;" /> <a href="?page_id=<?php echo $pageid; ?>&page=<?php echo $page; ?>&dir=<?php echo ($dir == 'asc' ? 'desc' : 'asc'); ?>&orderby=price<?php echo (isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '').((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : ''); ?>"><?php _e('Asking Price'); ?></a> <?php echo ($orderby == 'price') ? ( ($dir == 'asc') ? '<img src="'.DPIMAGES.'/asc.gif" border="0" alt="<img src="'.DPIMAGES.'/asc.gif" border="0" alt="&and;" /> ' : '<img src="'.DPIMAGES.'/desc.gif" border="0" alt="&or;" />' ) : '' ; ?></td>
     <?php } ?>
     <?php if (in_array("status", $dp_visible)) { ?>
     <td id="dphead-status"><img src="<?php echo DPIMAGES; ?>/pre.gif" border="0" alt="&raquo;" /> <a href="?page_id=<?php echo $pageid; ?>&page=<?php echo $page; ?>&dir=<?php echo ($dir == 'asc' ? 'desc' : 'asc'); ?>&orderby=status<?php echo (isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '').((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : ''); ?>"><?php _e('Status');?></a> <?php echo ($orderby == 'status') ? ( ($dir == 'asc') ? '<img src="'.DPIMAGES.'/asc.gif" border="0" alt="&and;" />' : '<img src="'.DPIMAGES.'/desc.gif" border="0" alt="&or;" />' ) : '' ; ?></td>
@@ -290,11 +434,22 @@ function dp_page($oldcontent) {
     <?php if (in_array("language", $dp_visible)) { ?>
     <td id="dpcols-language"><?php echo $row->language; ?></td>
     <?php } ?>
+
+    <?php if (in_array("expiry", $dp_visible)) { ?>
+    <td><?php echo date('F jS, Y', strtotime($row->expiry)); ?></td>
+    <?php } ?>
+
+
     <?php if (in_array("punycode", $dp_visible)) { ?>
     <td id="dpcols-punycode"><?php 
 	$ext = explode('.', $row->name,2);
 	echo $IDN->encode($ext[0]).'.'.$ext[1]; ?></td>
     <?php } ?>
+
+    <?php if (in_array("registrar", $dp_visible)) { ?>
+    <td><?php echo $row->registrar; ?></td>
+    <?php } ?>
+
     <?php if (in_array("price", $dp_visible)) { ?>
     <td id="dpcols-price"><?php echo (($row->price == 'N/A' || $row->price == '') ? "N/A" : currency_sym(get_option("dp_currency")).sprintf("%01.2f", $row->price)); ?></td>
     <?php } ?>
@@ -308,21 +463,78 @@ function dp_page($oldcontent) {
   <?php
   }
   ?>
-</table><div style="text-align:right"><strong><?php _e('Pages');?>: </strong><?php
+</table>
+<div style="text-align:right">
+	<strong><?php _e('Pages');?>: </strong>
+<?php
+ // -----------  new pagination	
+	$max_page = 3;
+	// var_dump($page);
+	// var_dump($pages);
+	// var_dump($max_page);
+
 	if ($page > 1) {
-		echo "<a href=\"?page_id=$pageid&page=".($page - 1)."&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '').((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\" title=\""._('Previous Page')."\">&lt;"._('Prev')."</a> ";
+		echo "<a href=\"?page_id=$pageid&page=".($page - 1)."&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '')."".((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\" title=\"Previous Page\">&lt;Prev</a> ";
 	}
-  for ($i=1;$i<=$pages;$i++) {
-	if ($i == $page) {
-		echo "[$i]";
-	} else {
-		echo "<a href=\"?page_id=$pageid&page=$i&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '').((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\">[$i]</a>";
+
+ //  for ($i=1;$i<=$pages;$i++) {
+ // 	if ($i == $page) {
+	// 	echo "[$i]";
+	// } else {
+	// 	echo "<a href=\"?page_id=$pageid&page=$i&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '')."".((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\">[$i]</a>";
+	// }
+ //  }
+
+	if ( ( $pages>10 )  ) {
+
+		  for ( $i=1; $i<=$max_page; $i++ ) {
+		 	if ($i == $page) {
+				echo "[$i]";
+			} else {
+				echo "<a href=\"?page_id=$pageid&page=$i&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '')."".((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\">[$i]</a>";
+			}
+		  }
+		echo '...';
+
+		$last = $pages-$max_page;
+
+		//var_dump($last);
+		if ( ( ($page)>$max_page ) && ($page<=$last)  ) {
+
+			for ( $i=($page-1); $i<=($page+1); $i++ ) {
+				if ($i == $page) {
+					echo "[$i]";
+				} 
+			}
+			echo '...';
+		}//end center
+
+		for ( $i=$last+1; $i<=$pages; $i++ ) {
+			if ($i == $page) {
+				echo "[$i]";
+			} else {
+				echo "<a href=\"?page_id=$pageid&page=$i&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '')."".((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\">[$i]</a>";
+		   }
+		}
+
+	} //end if >10
+	else {
+		
+		  for ($i=1;$i<=$pages;$i++) {
+		 	if ($i == $page) {
+				echo "[$i]";
+			} else {
+				echo "<a href=\"?page_id=$pageid&page=$i&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '')."".((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\">[$i]</a>";
+			}
+		  }
+
 	}
-  }
+
   if ($page < $pages) {
-		echo " <a href=\"?page_id=$pageid&page=".($page + 1)."&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '').((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\" title=\""._('Next Page')."\">"._('Next')." &gt;</a> ";
+		echo " <a href=\"?page_id=$pageid&page=".($page + 1)."&dir=$dir&orderby=$orderby".(isset($_GET['search-term']) ? '&search-term='.$_GET['search-term'] : '')."".((isset($_GET['ext']) && $_GET['ext'] != '') ? '&ext='.$_GET['ext'] : '')."".((isset($_GET['lang']) && $_GET['lang'] != '') ? '&lang='.$_GET['lang'] : '')."\" title=\"Next Page\">Next &gt;</a> ";
 	}
-?>
+// end pagination -------------------- ?>
+
 </div>
 <div align="center">All prices in <?php echo currency(get_option('dp_currency')); ?>.</div><br />
 <center><?php _e('Powered By'); ?> <a href="http://www.borghunter.com">Wordpress UK Domain Portfolio v<?php echo $dp_version; ?></a><br /> UK Mod by <a href="http://www.acorndomains.co.uk">Acorn Domains</a></center>
@@ -338,7 +550,7 @@ function postid() {
 function dp_contact($oldcontent) {
 	global $wpdb, $dp_version, $pageid;
 	if (postid() == $pageid) {
-	?><a href="?page_id=<?php echo $pageid; ?>">&laquo; <?php _e('Go Back to my Portfolio'); ?></a><br /><br /><?php
+	?><a class="c_main" href="?page_id=<?php echo $pageid; ?>">&laquo; <?php _e('Go Back to my Portfolio'); ?></a><?php
 		if (isset($_POST['contact-for-domain'])) {
 			$value['fullname'] = ' value="'.$_POST['fullname'].'"';
 			$value['email'] = ' value="'.$_POST['email'].'"';
@@ -364,7 +576,7 @@ function dp_contact($oldcontent) {
 			} else {
 				$message = "Offer for Domain: ".$_POST['domain']."
 				Offer by: ".$_POST['fullname']."
-				Offer for: ".$_POST['price']." ".currency(get_option('dp_currency'))."
+				Offer for: ".$_POST['offer']." ".currency(get_option('dp_currency'))."
 				Their email: ".$_POST['email']."
 				Their Message:
 				".$_POST['message']."
@@ -374,9 +586,11 @@ function dp_contact($oldcontent) {
 				$title = "Offer for Domain: ".$_POST['domain'];
 				$headers = "From: ".$_POST['email'];
 				if (mail(get_option('admin_email'), $title, $message, $headers)) {
-					_e('Your offer for this domain was sent to the own successfully');
+					echo '<span class="c_main c_good">'; _e('Your offer for this domain was sent to the own successfully');
+					echo '</span>';
 				} else {
-					_e('<font color="#FF0000">There was an error in processing, please try again</font>');
+					echo '<span class="c_main c_good">'; _e('<font color="#FF0000">There was an error in processing, please try again</font>');
+					echo '</span>';
 				}
 			}
 		}
@@ -405,7 +619,158 @@ function dp_contact($oldcontent) {
 		$yahoo = $grabber->yahoo();
 	}
 	?>
-    <form method="post"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+	<!-- contact form new style -->
+<style>
+.c_good {
+	background-color: #D6EAD2;
+	padding: 5px;
+	margin-top: 10px !important;
+}
+.c_main {
+		max-width: 500px;
+		margin: auto;
+		display: block;
+}
+#send_domain {
+	max-width: 500px;
+	margin: auto;
+}
+#send_domain input[type="text"], #send_domain input[type="password"], #send_domain input[type="email"], #send_domain input[type="search"], #send_domain input.input-text, #send_domain textarea {
+	padding: .844em;
+	background: rgba(0, 0, 0, 0.05);
+	color: #666a76;
+	border: 0;
+	-webkit-border-radius: 0.201em;
+	border-radius: 0.201em;
+	outline: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 100%;
+}
+.c_label {
+	line-height: 1.777;
+	color: #666a76;
+	font-size: 1em;
+	text-transform: uppercase;
+	margin-top: 15px;
+	display: inline-block;
+	margin-bottom: 0;
+	padding: 0;
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+
+.c_title {
+	font-weight: normal;
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	margin: 10px 0 0 0 !important;
+}
+.c_small {
+	color: #666a76;
+	text-transform: lowercase;
+	font-size: 12px
+}
+#send_domain input[type="submit"], #send_domain .button, #send_domain input[type="button"] {
+	padding: .844em 1.125em;
+	color: #f8f8f9;
+	font-weight: 600;
+	background: rgba(101, 113, 116, 0.84);
+	-webkit-border-radius: 0.201em;
+	border-radius: 0.201em;
+	border: 0;
+	-webkit-transition: all ease 0.238s;
+	-moz-transition: all ease 0.238s;
+	-o-transition: all ease 0.238s;
+	transition: all ease 0.238s;
+	width: 100%;
+	text-transform: uppercase;
+	margin-top: 40px;
+	margin-bottom: 20px;
+	font-size: 1em;
+}
+</style>
+
+<div id="send_domain">
+    <form method="post">
+
+    <!-- <h3><?php _e('Information'); ?>:</h3> -->
+    <!-- <p class="c_label"><?php _e('Domain');?>: <?php echo strtoupper($row->name); ?></p> -->
+    
+    
+    <?php if (in_array("ext", $dp_contactfields)) { ?>
+	    <p class="c_label"><?php _e('Extension');?>:</p>
+	    <?php echo '.'.strtoupper($row->ext); ?>
+    <?php } ?>
+
+    <?php if (in_array("keywords", $dp_contactfields)) { ?>
+	  	<p class="c_label"><?php _e('Keywords');?>:</p>
+	    <?php echo $keywords; ?>
+	<? } ?>
+
+  	<?php if (in_array("google", $dp_contactfields)) { ?>
+	  	<p class="c_label"><?php _e('Google');?>:</p>
+	    <?php echo '<em>'.$google.'</em>'. _(' listings with the keyword(s) ').'"'.$keywords.'"'; ?>
+    <?php } ?>
+
+  	<?php if (in_array("msn", $dp_contactfields)) { ?>
+	  	<p class="c_label"><?php _e('MSN Search');?>:</p>
+	    <?php echo '<em>'.$msn.'</em>'. _(' listings with the keyword(s) ').'"'.$keywords.'"'; ?>
+    <?php } ?>
+
+    <?php if (in_array("yahoo", $dp_contactfields)) { ?>
+	  	<p class="c_label"><?php _e('Yahoo');?>:</p>
+	    <?php echo '<em>'.$yahoo.'</em>'._(' listings with the keyword(s) ').'"'.$keywords.'"'; ?>
+    <?php } ?>
+
+    <?php if (get_option('dp_contact') != 0 && $row->status != 2) { ?>
+	    <a id="offer"></a> 
+	    <h3 class="c_title"><?php _e('Make an Offer on domain'); ?>: <?php echo strtoupper($row->name); ?></h3>
+        
+        <p class="c_label"><?php _e('Name');?>:* <?php echo $error['fullname']; ?> </p>
+	    <input type="text" name="fullname"<?php echo $value['fullname'];?> /> 
+	    
+	    <p class="c_label"><?php _e('Email');?>:* <?php echo $error['email']; ?></p>
+        <input type="text" name="email"<?php echo $value['email'];?> /> 
+        
+        <p class="c_label"><?php _e('Offer');?>:</p>
+        <?php echo currency_sym(get_option('dp_currency'));?><input type="text" name="offer"<?php echo $value['offer'];?> />
+		<span class="c_small">
+			(<?php _e('please make your offer in');?> <?php echo currency(get_option('dp_currency')); ?>)
+		</span>
+		<br />
+        
+        <p class="c_label"><?php _e('Message');?>:* <?php echo $error['message']; ?></p>
+        <textarea name="message" cols="25" rows="4"><?php echo $value['message'];?></textarea>
+        
+        <p class="c_label">CAPTCHA:* <?php echo $error['captcha']; ?></p>
+	    <img style="margin-bottom: 5px;" src="<?php echo DPFOLDER;?>/captcha.php?rand=<?php echo $randcode; ?>" />
+	    <!-- <br />
+		Enter the code if you are human:<br /> -->
+		<input type="text" name="code" /><input type="hidden" name="key" value="<?php echo $randcode;?>" /> 
+	
+	    <input type="submit" value="Send" class="button" name="contact-for-domain" /><input type="hidden" name="domain" value="<?php echo $row->name; ?>" />
+	
+	  	<!-- *Required -->
+
+
+    <?php } ?>
+	</form>
+</div> 
+
+<?php
+// if (mail(get_option('admin_email'), $title, $message, $headers)) {
+// 	echo '<span class="c_main c_good">'; _e('Your offer for this domain was sent to the own successfully');
+// 	echo '</span>';
+// } else {
+// 	echo '<span class="c_main c_good">'; _e('<font color="#FF0000">There was an error in processing, please try again</font>');
+// 	echo '</span>';
+// } ?>
+
+<!-- end contact form -->
+
+<!-- contact old -->
+<!-- <form method="post"><table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td colspan="2"><h3><?php _e('Information'); ?>:</h3></td>
   </tr>
@@ -483,7 +848,10 @@ Enter the code if you are human:<br />
   	<td colspan="2">*Required</td>
   </tr>
   <?php } ?>
-</table></form><br />
+</table></form> -->
+<!-- end contact old -->
+
+<br />
 <center>Please note the Nominet transfer process for UK domain names <a ref="http://www.nominet.org.uk/registrants/maintain/transfer/" target="_blank">here</a>. Transfer fees are payable by the buyer and not included in the agreed sale price.<br/><br/>
 <?php _e('Powered By'); ?> <a href="http://www.borghunter.com">Wordpress UK Domain Portfolio v<?php echo $dp_version; ?></a><br /> UK mod by <a href="http://www.acorndomains.co.uk">Acorn Domains</a></center>
 <?php
@@ -525,7 +893,7 @@ function dp_search($oldcontent) {
     </select></td>
   </tr>
   <tr>
-  	<td><strong><?php _e('Language'); ?>:</strong></td>
+  	<td><strong><?php _e('Category'); ?>:</strong></td>
     <td><select name="lang">
     <option value="">-<?php _e('All'); ?>-</option>
     <?php 

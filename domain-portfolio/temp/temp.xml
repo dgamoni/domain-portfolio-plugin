@@ -1,7 +1,965 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <DomainList>
-	<Domain Name="AEROSMITH.BIZ" Tld=".biz" ExpirationDate="03/30/2008 16:59:59" Status="Active" Privacy="Public" Locked="Unlocked" registrar="GoDaddy"/>
-	<Domain Name="EPSON.BIZ" Tld=".biz" ExpirationDate="08/02/2008 16:59:59" Status="Active" Privacy="Public" Locked="Unlocked" registrar="GoDaddy"/>
-	<Domain Name="LOOMPS.COM" Tld=".com" ExpirationDate="01/20/2008 15:06:18" Status="Active" Privacy="Public" Locked="Unlocked" SellStatus="0" registrar="GoDaddy"/>
-	<Domain Name="MYCRIME.TV" Tld=".tv" ExpirationDate="07/28/2008 08:39:31" Status="Active" Privacy="Public" Locked="Unlocked" registrar="GoDaddy"/>
+	<Domain Name="prostata.by" ExpirationDate="2015-2-3" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="promo.ae" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="progulka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="profile.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="profnastil.kz" ExpirationDate="2015-1-1" Registrar="hoster.by" SellStatus="1" Price="" Language="build" />
+	<Domain Name="products.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pro.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="printing.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="print.ae" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="press.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="posters.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="poselok.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="poselok.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="popsa.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="poplavok.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="politika.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="podval.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="playstation.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="platezhi.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="playlist.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="platezh.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pingpong.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="planes.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pilot.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pig.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pharmacy.lv" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="photograph.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="peugeotclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="petroleum.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pesnya.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pesnya.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="peredacha.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pepsi.by" ExpirationDate="2015-1-1" Registrar="hoster.by" SellStatus="2" Price="" Language="" />
+	<Domain Name="pelmeni.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pension.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pekarnya.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pays.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pedigree.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="payments.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pashtet.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pattaya.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="parquethall.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="parquet.co" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="parquet.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pallmall.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="parked.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pajero.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="painter.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="paints.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="paint.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="own.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="packing.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="oven.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ou.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="outlet.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="oteli.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="osoba.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="oshmyany.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="origin.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="orgazm.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="optics.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="orbit.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="onlinepoker.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="onlinepay.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="onlinecasino.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="onlinebank.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="oliveoil.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="olen.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="olimpia.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="okei.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="old.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="oil.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ohrannik.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ogni.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="offices.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="oc.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="oblako.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="nyc.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="oae.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ny.lv" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ny.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="number.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="novinki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="notebooks.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="nissanclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="nik.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="nightparty.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="nightlife.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="nh.com.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="newspaper.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="network.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="netherlandscasino.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="nedvijimost.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="napitok.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="nanotelephone.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="namehunter.kz" ExpirationDate="2015-1-1" Registrar="hoster.by" SellStatus="2" Price="" Language="" />
+	<Domain Name="namehunter.by" ExpirationDate="2015-1-1" Registrar="hoster.by" SellStatus="2" Price="" Language="" />
+	<Domain Name="naked.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="n1.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mytickets.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="myschool.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mymusic.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mybooks.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mydomains.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="myaso.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="my-banks.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="muzika.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="muzey.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="musik.pro" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="munchen.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="multiki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="multfilm.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mozir.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="movie.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="motos.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="motorbike.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="motocross.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="motoclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="motobike.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mothers.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mothers.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="moscowcity.org" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="moscowcity.me" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="moscowcity.co" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="morozova.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="moscow.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="morozov.club" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="morozko.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="monkey.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="monitors.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="momondo.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="momondo.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="models.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mobiles.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mobi.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mk.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mitsubishiclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="missminsk.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="missbelarus.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="miss-belarus.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="minsktowers.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="minsktower.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="minskrealty.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="minskoe.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="minskrealty.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="minskie.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="minskcity.org" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mineral.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="minskcity.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="minck.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="metallolom.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="messenger.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mercedesclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="melodiya.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="meha.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="medicine.ae" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mask.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mazdaclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="marinagorka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="maps.ae" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="managers.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="managed.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="man.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mamba.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="makulatura.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="maks.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mails.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="magazines.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lrclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="loves.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lover.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="loveplanet.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lotus.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lotto.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lotteries.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lotereya.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="loterei.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="loop.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lolita.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="logos.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="listovka.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="listok.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="link.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lines.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="line.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="limited.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lifecom.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lico.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lesson.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="leonid.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="leha.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lechenie.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lawyers.dk" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="laws.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lap.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="landroverclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="landcruiser.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="land.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kuzmin.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kupalnik.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kuhnya.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ktp.co" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kruzhka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="krupa.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="krokodil.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="krem.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kredity.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kreditki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kreditka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="krediti.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kozha.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kovrolin.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kotleta.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kotleta.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kosmos.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kontramarka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="konstantin.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kondicioner.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="koncert.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="komarov.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kolobki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kolhoz.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kolbaski.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kolbaska.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kobra.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="knizhki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kletka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kitay.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kinoteatry.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kinohod.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kinoafisha.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kingcoal.org" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ketchup.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ke.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kc.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kb.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kazanova.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kazaheli.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="katok.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kasha.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="kartoshka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="karaganda.tv" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="jurists.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="juices.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ju.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="journals.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="journal.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="jot.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="jooow.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="jeweller.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="jewel.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="jeepclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="je.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="jarmarka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="jandex.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="jaguarclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="jackpot.lt" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="jackpot.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="iw.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ivirtuality.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ivatsevichi.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ivanov.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="itickets.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="italia.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="iphones.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="iphone8.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="iphone7.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="iod.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="investing.lv" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="klei.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="invented.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="interested.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="insured.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="insure.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="insurance.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="inews.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="inet.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="industry.ae" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="industrial.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="iname.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="imya.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="imusic.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ila.co" ExpirationDate="2015-1-1" Registrar="hoster.by" SellStatus="2" Price="" Language="" />
+	<Domain Name="ikino.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="igry.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="igorek.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="idomen.net" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="icq.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="icosmetic.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="icars.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="hyundaiclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="houses.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="hotels.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="hospital.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="horses.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="horses.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="homes.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="homes.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="hn.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="hirurg.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="himia.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="hill.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="hhh.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="hf.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="health.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="havana.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="gus.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="gruzovik.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="greeting.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="green.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="gratis.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="grain.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="gostinica.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="googleglassapps.net" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="googleglass.club" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="gomel.tv" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="golfcourses.dk" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="golddomains.org" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="golddomains.net" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="goldcoin.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="gogophone.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="gogonames.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="gogobusiness.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="go2.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="gmail.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="glonass.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="glavbukh.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="give.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="giftshop.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="giftcards.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="giftcard.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="gift-cards.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="geely.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="garelka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="garantsdelki.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="gambling.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="gamble.lv" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="furs.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="funds.dk" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="funds.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="fuckyou.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="frukt.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="freelancers.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="fotostrana.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="fotografia.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="forums.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="formen.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="food.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="flying.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="flying.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="flyer.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="flag.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="fishing.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="fish.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="fish.ae" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="finam.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="final.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="filmy.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="filmi.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="film.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="files.lv" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="fedorov.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="fashionweek.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="fakultet.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="fakty.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="factor.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="exposed.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="expo.ae" ExpirationDate="2015-1-1" Registrar="hoster.by" SellStatus="0" Price="300000" Language="English" />
+	<Domain Name="expertise.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="exchanger.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="exchanger.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ew.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="evo.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="evideo.net" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ev.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="europe.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="etickets.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="eticket.club" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="estates.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="erotik.pro" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="erotik.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="erotica.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ero.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="epizza.co" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="epayment.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="eo.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="enyc.net" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="english.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="engine.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ekvator.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ehotels.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ehealth.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="eflowers.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="edreams.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="edreams.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="editor.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="edesign.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ecity.co" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ecard.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ebuy.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ebox.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ebook.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ear.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="e5.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="e-tickets.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dublenki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dubairealty.net" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dry.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="drivers.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="don.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domofond.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domenmarket.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domenclub.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domen.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domen.market" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domen.club" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domainventurefund.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domainnames.dk" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domainnames.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domainname.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domaining.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domaining.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dogs.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dog.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dodgeclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dnhunters.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="disko.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="discounts.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="discount.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="diapers.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="devushki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="devushka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="deti.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="designs.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dentists.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dentist.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dates.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="data.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dandy.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="daewoo.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dad.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cyberplat.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cruises.lv" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="crimeancasinos.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="creditcard.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="credit-card.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cow.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cow.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="coupon.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cosmos.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="corolla.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="copper.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="contacts.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="contact.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="consultants.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="computers.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="company.lv" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="company.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="comics.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="comedy.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="colour.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cognac.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="clothing.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="classified.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cityguide.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="citroenclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cigars.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cifra.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="chebureki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cheat.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="chats.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="charter97.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="charlott.co.uk" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="chairs.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="chaihana.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ce.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cayenne.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cats.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="catalogs.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cat.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cash.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="care.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cards.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="canal.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="camry.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cameras.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cal.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="buytickets.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="buyticket.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="buyer.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="buyalias.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="burgerking.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bull.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bukmeker.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="building.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="btc.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="brown.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="brown.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bronya.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="brokerage.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="broker.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="boxer.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="boroda.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bookmarks.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bookmakers.pro" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bookmaker.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bond.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bolnica.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bodybuilder.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="blinchiki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="blinchik.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="blackjack.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="blackfriday.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="black.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="black-friday.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="birthday.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="biography.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bingo.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="billing.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bigbag.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="big.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bid.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="betting.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="beseda.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="beloozersk.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="belnews.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="belnet.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="belarusian.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="beach.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="beach.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="beach.ae" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bath.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="batareya.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="barsuk.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="banner.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="banks.dk" ExpirationDate="2015-1-1" Registrar="hoster.by" SellStatus="0" Price="45000" Language="English" />
+	<Domain Name="banking.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bags.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="backup.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="avtostrahovka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="avtomat.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="avtoforum.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="avto1.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="aviation.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="automotive.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="autoforum.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="autoexpo.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="auctions.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="auctions.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="astrologia.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="asian.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="artur.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="arctic.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="arab.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="antispam.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="anti.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="animals.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="amour.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="always.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="alltickets.pl" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="alltickets.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="allticket.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="allnames.co" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="allnam.es" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="alexfrost.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="aleksey.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="airtickets.pro" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="airticket.lt" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="airticket.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="airplane.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="airlineticket.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="airline.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="air.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="aftermarket.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="aerotickets.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="aeroticket.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="advertising.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="adres.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="address.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="access.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="97.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="94.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="93.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="92.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="91.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="87.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="85.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="84.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="83.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="82.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="79.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="78.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="76.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="74.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="73.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="71.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="67.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="64.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="63.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="62.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="61.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="59.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="58.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="54.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="53.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="52.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="51.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="49.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="46.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="39.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="38.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="31.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="2020.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="2018.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="2017.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="100.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="07.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="укладкаплитки.рф" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="пл.москва" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="оз.москва" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="мастераремонта.рф" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="массивнаядоска.рф" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="лт.москва" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="лп.москва" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="лн.москва" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="еп.москва" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="домейнинг.рф" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="дверъ.рф" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="гр.москва" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="гг.москва" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="вт.москва" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="бл.москва" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ал.москва" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="znak.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="zipp.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="zerno.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="yellowpages.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="yahta.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="yachtclub.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="xxxx.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="xxl.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ww.su" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="wines.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="traveller.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="topmodels.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="topmodel.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="tomatin.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="steklopak.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ryba.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rigacity.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rentcars.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="remontnoe.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="programmisty.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="programisty.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="privacy.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="poustovit.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="plitochniki.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="phygital.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="panameraclub.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="pachafm.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="orange.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="onlinebrand.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="note.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="namehunters.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="naketano.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="myphotography.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="mybanking.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="motors.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="momodesign.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="missekaterinburg.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="maxi.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="manage.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="lepsbar.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="labradori.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="jackpot.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="istreaming.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="imails.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="icecream.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="healthtv.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="golfclub.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="goldprices.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="goldbroker.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="gambling.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="frukt.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="frost.su" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="fotografia.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="forrussia.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="forbeswoman.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="flyingclub.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ediscovery.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ecoklimat.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ecity.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="doori.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domennovosti.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domenmafia.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domenmafia.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domainmasters.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="domaincard.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="doctorforum.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dnsales.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dnprice.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dnguide.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="diver.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="diva.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dentist.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="days.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="dantist.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="crazydomain.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="conditioners.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="colorprinters.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="climat.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="client.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cigar.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cifra.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="charlott.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="chaihana.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cash.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="carpaints.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cardiology.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="canadianclub.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="cams.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="camera.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bloger.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="blackstars.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="blacklist.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="blackfriday.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="biznesmolodost.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="biznesmolodost.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="biker.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bets.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bcsbroker.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="bag.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="award.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="astanacity.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="aptamil.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="amour.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="almatycity.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="alltrademarks.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="alloriginals.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="alldomainnames.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="3auto.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="publishing.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="puhovik.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="puma.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="punktbayern.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="putevka.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="realestate.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="realtors.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="redwine.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="reebok.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="refrigerator.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="regioni.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="reis.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rekord.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="remont.com.ru" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="remont24.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="renaultclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="republic.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="reseller.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="resorts.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="restaurant.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="restaurant.lv" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="richmond.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rifle.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rigatoday.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ristorante.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="robot.ae" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rocker.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rodniki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rooms.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="router.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="roverclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rubber.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rubli.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rum.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rusalka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rybalka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rybki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="rzd.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="salt.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="samba.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sandwich.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="scenic.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="scooters.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="screen.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="screens.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="seafood.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="seafood.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sela.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sell.by" ExpirationDate="2015-1-1" Registrar="hoster.by" SellStatus="2" Price="" Language="" />
+	<Domain Name="semen.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="semenov.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="shaiba.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="shampun.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="shapki.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="shayba.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="shirt.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="shkolnik.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="shoe.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="shoes.lv" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="show.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="shuby.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="silach.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="silver.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ski.lv" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="skodaclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="slots.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="slovar.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="smartcard.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="smartmoney.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="smirnov.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="smoking.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="snickers.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sobachki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sobaki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sochi.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sofiarealty.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sold.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sosiski.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="soup.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sova.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sovet.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="spam.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="spice.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="spina.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="spletni.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sport24.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sports.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sportsman.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="spravka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="spravki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="stakan.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="stanislav.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="statistika.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="stavki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="stekla.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="steroids.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="steroids.pro" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="stolitsa.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="stream.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="streaming.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="studentka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="students.lt" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="styles.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="subaruclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="suhari.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="suzukiclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sweet.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="sweet.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="synergy.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="system.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="systems.lt" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="table.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="tabletki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="taksist.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="tattoos.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="tattoos.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="tattoos.moscow" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="tatuirovka.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="teamo.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="telefony.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="telephone.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="television.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="temp.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="terminal.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="terrace.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="thanks.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="theme.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="themorozov.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="this.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="tic.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ticket.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ticketland.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ticketonline.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ticketshop.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ticketstore.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="tiket.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="timber.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="title.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="tkan.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="top10.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="topmodels.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="tourism.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="tourist.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="tourists.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="tours.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="towers.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="toy.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="toyotaclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="toys.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="tractors.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="trains.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="travelers.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="travellers.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="trenazher.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="uchastki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="udobrenie.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="udochka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="ue.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="unistream.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="unost.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="uo.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="uzhin.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="vareniki.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="vaz.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="vegas.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="videos.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="vina.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="visitor.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="vistavka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="vladislav.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="vo.ae" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="volkswagenclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="volleyball.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="volvoclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="vorona.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="vrach.pro" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="vrachi.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="vwclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="vy.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="war.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="webbank.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="webhosting.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="websites.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="whiskas.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="whiskey.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="whisky.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="whisky.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="wig.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="wine.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="wines.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="winston.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="wire.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="wireless.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="wo.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="woooj.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="world.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="wr.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="wu.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="xm.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="xxxx.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="yacht.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="yachtclub.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="yachts.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="yahta.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="yellow.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="yes.lv" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="yogurt.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="yogurt.kz" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="yoooj.com" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="your.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="zagruzka.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="zemli.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="zolotoi.by" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="казахстан.каз" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="телеканал.москва" ExpirationDate="" Registrar="hoster.by" SellStatus="1" Price="" Language="" />
+	<Domain Name="PattayaProperty.org" ExpirationDate="2015-1-19" Registrar="dynadot.com" SellStatus="1" Price="" Language="English" />
+	<Domain Name="MiamiProperty.co" ExpirationDate="2015-1-21" Registrar="godaddy.com" SellStatus="0" Price="10000" Language="English" />
+	<Domain Name="elf.kz" ExpirationDate="2015-1-22" Registrar="dnr.kz" SellStatus="1" Price="" Language="English" />
+	<Domain Name="elf.moscow" ExpirationDate="2015-1-22" Registrar="reg.ru" SellStatus="1" Price="" Language="English" />
+	<Domain Name="StTropezProperties.com" ExpirationDate="2015-1-22" Registrar="godaddy.com" SellStatus="1" Price="" Language="English" />
 </DomainList>

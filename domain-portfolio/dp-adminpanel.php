@@ -35,9 +35,9 @@ function dp_panel() {
   <tr>
     <td></td>
     <td><?php _e('Domain Name'); ?>...</td>
-    <td><?php _e('Language'); ?>...</td>
+    <td><?php _e('Category'); ?>...</td>
     <td><?php _e('Price'); ?>...</td>
-    <td><?php _e('Expiry'); ?>...</td>
+    <td><?php _e('Creation'); ?>...</td>
     <td><?php _e('Registrar'); ?>...</td>
     <td><?php _e('Status'); ?>...</td>
     <td></td>
@@ -202,8 +202,8 @@ else
   	<th scope="col" style="text-align:center"></th>
     <th scope="col" style="text-align: center;">#</th>
     <th scope="col"><?php _e('Domain Name'); ?></th>
-    <th scope="col"><?php _e('Language'); ?></th>
-    <th scope="col"><?php _e('Expiry'); ?></th>
+    <th scope="col"><?php _e('Category'); ?></th>
+    <th scope="col"><?php _e('Creation'); ?></th>
 	<th scope="col"><?php _e('Asking Price'); ?></th>
     <th scope="col"><?php _e('Registrar'); ?></th>
 	<th scope="col"><?php _e('Status'); ?></th>
