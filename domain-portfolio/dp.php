@@ -253,15 +253,67 @@ function dp_page($oldcontent) {
   <?php 
   //------------------- add advansed saeach --------------------
   ?>
+  <style>
+  .c_input {
+	padding: .844em;
+	background: rgba(0, 0, 0, 0.05);
+	color: #666a76;
+	border: 0;
+	-webkit-border-radius: 0.201em;
+	border-radius: 0.201em;
+	outline: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 100%;
+}
+.c_label1 {
+	line-height: 1.777;
+	color: #666a76;
+	font-size: 1em;
+	text-transform: uppercase;
+	margin-top: 15px;
+	display: inline-block;
+	margin-bottom: 0;
+	padding: 0;
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	text-align: left;
+display: block;
+}
+.c_sub {
+	padding: .844em 1.125em !important;
+	color: #f8f8f9 !important;
+	font-weight: 600;
+	background-color: rgba(101, 113, 116, 0.84) !important;
+	background: rgba(101, 113, 116, 0.84) !important;
+	-webkit-border-radius: 0.201em;
+	border-radius: 0.201em;
+	border: 0 !important;
+	-webkit-transition: all ease 0.238s;
+	-moz-transition: all ease 0.238s;
+	-o-transition: all ease 0.238s;
+	transition: all ease 0.238s;
+	width: 100%;
+	text-transform: uppercase;
+	margin-top: 40px !important;
+	margin-bottom: 20px !important;
+	font-size: 1em !important;
+}
+.c_main1 {
+	max-width: 604px;
+	margin: auto;
+}
+  </style>
+
   <form method="get" action="?page_id=<?php echo $pageid; ?>">
+<div class="c_main1">
+    <p class="c_label1"><?php _e('Search My UK Domain Name Portfolio');?>:</p>
 
-    <strong><?php _e('Search My UK Domain Name Portfolio');?>:</strong>
+    <input class="c_input" type="text" name="search-term"<?php echo (isset($_GET['search-term'])) ? ' value="'.$_GET['search-term'].'"' : ''; ?> />
 
-    <input style="max-width: 200px;" type="text" name="search-term"<?php echo (isset($_GET['search-term'])) ? ' value="'.$_GET['search-term'].'"' : ''; ?> />
+  	<p class="c_label1"><?php _e('Extension'); ?>:</p>
 
-  	<strong><?php _e('Extension'); ?>:</strong>
-
-    <select name="ext">
+    <select  class="c_input" name="ext">
     <option value="">-<?php _e('All'); ?>-</option>
     <?php 
 		$getext = "SELECT `ext` FROM `".$wpdb->prefix."dp_domains`";
@@ -279,9 +331,9 @@ function dp_page($oldcontent) {
 	?>
     </select>
 
-  	<strong><?php _e('Category'); ?>:</strong>
+  	<p class="c_label1"><?php _e('Category'); ?>:</p>
 
-    <select name="lang">
+    <select  class="c_input" name="lang">
     <option value="">-<?php _e('All'); ?>-</option>
     <?php 
 		$getext = "SELECT `language` FROM `".$wpdb->prefix."dp_domains`";
@@ -299,8 +351,9 @@ function dp_page($oldcontent) {
 	?>
     </select>
 
-  	<input style="margin: 5px;" type="submit" value="Search" />
+  	<input class="c_sub" style="margin: 5px;" type="submit" value="Search" />
 
+</div>
 <!-- </form> -->
 <?php
   //-----------------------------------end
